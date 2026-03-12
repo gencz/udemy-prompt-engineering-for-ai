@@ -33,6 +33,7 @@ This repository contains my notes, prompts, examples, and practice work for the 
 
 - Udemy course page: https://www.udemy.com/course/prompt-engineering-for-ai/
 - Demo repo: https://github.com/BrightPool/udemy-prompt-engineering-course
+- AI Resource Hub: https://docs.google.com/spreadsheets/d/1IQ3VVwphfuvOFMpdjWbz8ZZzwxCfEFAVqpqEBUNViaM/edit
 
 ## ChatGPT Prompt Pack
 
